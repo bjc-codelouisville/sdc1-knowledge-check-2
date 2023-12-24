@@ -1,0 +1,16 @@
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.csproj.AssemblyReference.cache
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.AssemblyInfoInputs.cache
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.AssemblyInfo.cs
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.csproj.CoreCompileInputs.cache
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\bin\Debug\net5.0\sdc1-knowledge-check-2.exe
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\bin\Debug\net5.0\sdc1-knowledge-check-2.deps.json
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\bin\Debug\net5.0\sdc1-knowledge-check-2.runtimeconfig.json
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\bin\Debug\net5.0\sdc1-knowledge-check-2.runtimeconfig.dev.json
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\bin\Debug\net5.0\sdc1-knowledge-check-2.dll
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\bin\Debug\net5.0\ref\sdc1-knowledge-check-2.dll
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\bin\Debug\net5.0\sdc1-knowledge-check-2.pdb
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.dll
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\ref\sdc1-knowledge-check-2.dll
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.pdb
+C:\Users\bj\source\repos\sdc1-knowledge-check-2\obj\Debug\net5.0\sdc1-knowledge-check-2.genruntimeconfig.cache
